@@ -1,4 +1,4 @@
-##App Demo
+## App Demo
 
 Here: https://pranitaakale.github.io/to-do-app-in-react/
 
